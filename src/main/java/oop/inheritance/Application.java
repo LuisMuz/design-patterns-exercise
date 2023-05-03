@@ -132,6 +132,7 @@ public class Application {
     }
 
     public void showConfiguration() {
+        System.out.println("Llegaste hasta aqui");
     }
 
     public void clearScreen() {
